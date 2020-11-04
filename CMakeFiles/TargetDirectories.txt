@@ -1,0 +1,3 @@
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/CMakeFiles/edit_cache.dir
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/CMakeFiles/CDSystems.dir

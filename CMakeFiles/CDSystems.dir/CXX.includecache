@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/CDSystems.cpp
+CDSystems.h
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/CDSystems.h
+src/couts2.h
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/src/couts2.h
+src/couts3.h
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/src/couts3.h
+
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/CDSystems.h
+iostream
+-
+vector
+-
+
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/src/couts2.h
+examples2.h
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/src/examples2.h
+vector
+-
+
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/src/couts3.h
+examples3.h
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/src/examples3.h
+vector
+-
+cmath
+-
+
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/src/examples2.h
+iostream
+-
+cmath
+-
+
+/mnt/c/users/Diana/projects/chaotic_dynamical_systems/CDSystems/CDSystems/src/examples3.h
+cmath
+-
+
